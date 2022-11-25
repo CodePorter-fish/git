@@ -9,5 +9,6 @@ public class Main {
         System.out.println("hot-fix冲突合并分支");
         System.out.println("推送测试");
         System.out.println("推送测试2");
+	System.out.printlln("pull commit");
     }
 }
